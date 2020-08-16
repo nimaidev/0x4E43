@@ -91,19 +91,18 @@
 <br />
 47
 <br />
-48
-​
-49
----
-50
-​
-51
-### 📺 Latest YouTube Videos
-52
-​
-53
-<!-- YOUTUBE:START -->
-54
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-55
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
+[website]: https://codeSTACKr.com
+100
+[twitter]: https://twitter.com/codeSTACKr
+101
+[youtube]: https://youtube.com/codeSTACKr
+102
+[instagram]: https://instagram.com/codeSTACKr
+103
+[linkedin]: https://linkedin.com/in/codeSTACKr
+104
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+105
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+106
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
