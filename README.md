@@ -35,3 +35,4 @@
 <br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NimaiCharan)](https://github.com/NimaiCharan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaiCharan&layout=compact)](https://github.com/NimaiCharan/github-readme-stats)
