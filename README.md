@@ -13,10 +13,9 @@
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1wdyyrGZ3a45n3hMQ35PQT)
 
-<br>
 ### Connect with me:
 [<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/me_nimai/)
-<br>
+
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
