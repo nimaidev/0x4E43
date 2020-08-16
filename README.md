@@ -1,39 +1,25 @@
 ### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
-2
-​
-3
+
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-4
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-5
+
+
+## I'm a  Developer, and Teacher!
+
 ​
-6
-## I'm a Husband, Father, Developer, and Teacher!
-7
-​
-8
 - 🔭 I’m currently working on a [VS Code Course][website]!
-9
 - 🌱 I’m currently learning everything 🤣
-10
 - 👯 I’m looking to collaborate with other content creators
-11
 - 🥅 2020 Goals: Contribute more to Open Source projects
-12
 - ⚡ Fun fact: I love to draw and play guitar / drums
-13
-​
-14
+
 ### Spotify Playing 🎧
-15
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-16
+
 ​
-17
 ### Connect with me:
-18
-​
-19
+
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 20
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
