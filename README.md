@@ -16,6 +16,7 @@
 ### Connect with me:
 [<img  alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/me_nimai/)
 [<img  alt="Bitbucket" width="30px" src="https://d301sr5gafysq2.cloudfront.net/d7d1dd52686b/img/logos/bitbucket/android-chrome-192x192.png" />](https://bitbucket.org/nimaicharanmaikap/)
+[<img  alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />](https://twitter.com/menimaicharan)
 
 
 ### Languages and Tools:
