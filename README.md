@@ -15,7 +15,7 @@
 
 <br>
 ### Connect with me:
-[<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />(https://www.instagram.com/me_nimai/)]
+[<img align="left" alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/me_nimai/)
 <br>
 
 ### Languages and Tools:
