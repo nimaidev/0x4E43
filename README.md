@@ -16,7 +16,7 @@
 ### Connect with me:
 [<img  alt="Instagram" width="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png" />](https://www.instagram.com/cilucious/)
 [<img  alt="Bitbucket" width="30px" src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" />](https://bitbucket.org/nimaicharanmaikap/)
-[<img  alt="Twitter" width="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png" />](https://twitter.com/cilucious)
+[<img  alt="Twitter" width="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1654235797~hmac=686d78837325e10e8a01097015dfead7" />](https://twitter.com/cilucious)
 
 
 ### Languages and Tools:
