@@ -14,9 +14,9 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1wdyyrGZ3a45n3hMQ35PQT)
 
 ### Connect with me:
-[<img  alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />](https://www.instagram.com/me_nimai/)
-[<img  alt="Bitbucket" width="30px" src="https://d301sr5gafysq2.cloudfront.net/d7d1dd52686b/img/logos/bitbucket/android-chrome-192x192.png" />](https://bitbucket.org/nimaicharanmaikap/)
-[<img  alt="Instagram" width="30px" src="https://image.flaticon.com/icons/svg/733/733579.svg" />](https://twitter.com/menimaicharan)
+[<img  alt="Instagram" width="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png" />](https://www.instagram.com/cilucious/)
+[<img  alt="Bitbucket" width="30px" src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" />](https://bitbucket.org/nimaicharanmaikap/)
+[<img  alt="Twitter" width="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png" />](https://twitter.com/cilucious)
 
 
 ### Languages and Tools:
