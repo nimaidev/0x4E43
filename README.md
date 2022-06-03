@@ -7,11 +7,10 @@
 - 🔭 I’m currently working on a MERN Stack!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play keyboard
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/1wdyyrGZ3a45n3hMQ35PQT)
+
 
 ### Connect with me:
 [<img  alt="Instagram" width="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1654235979~hmac=9d596e26a5a62efea8ca194b8c77a0db" />](https://www.instagram.com/cilucious/)
