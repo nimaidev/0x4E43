@@ -4,9 +4,9 @@
 ## I'm a  Developer, and pro at copying codes from [https://stackoverflow.com]
 
 ### Connect with me:
-[<img  alt="Instagram" width="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1654235979~hmac=9d596e26a5a62efea8ca194b8c77a0db" />](https://www.instagram.com/cilucious/)
+[<img  alt="Instagram" width="30px" src="[https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1654235979~hmac=9d596e26a5a62efea8ca194b8c77a0db](https://cdn-icons-png.flaticon.com/512/174/174855.png)" />](https://www.instagram.com/cilucious/)
 [<img  alt="Bitbucket" width="30px" src="https://cdn-icons-png.flaticon.com/512/6125/6125001.png" />](https://bitbucket.org/nimaicharanmaikap/)
-[<img  alt="Twitter" width="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504947.png?token=exp=1654235797~hmac=686d78837325e10e8a01097015dfead7" />](https://twitter.com/cilucious)
+[<img  alt="Twitter" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />](https://twitter.com/0x4E43)
 
 
 ### Languages and Tools:
