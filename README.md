@@ -1,16 +1,7 @@
-### Hi there, I'm Nimai Charan [https://www.nextoniclabs.com/] 👋
+### Hi there, I'm Nimai Charan [https://www.nextoniclabs.in/] 👋
 
 
-## I'm a  Developer, and Teacher!
-
-​
-- 🔭 I’m currently working on a MERN Stack!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play keyboard
-
-
+## I'm a  Developer, and pro at copying codes from [https://stackoverflow.com]
 
 ### Connect with me:
 [<img  alt="Instagram" width="30px" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1654235979~hmac=9d596e26a5a62efea8ca194b8c77a0db" />](https://www.instagram.com/cilucious/)
@@ -33,5 +24,5 @@
 
 <br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NimaiCharan)](https://github.com/NimaiCharan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NimaiCharan)](https://github.com/NimaiCharan/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0x4E43)](https://github.com/NimaiCharan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0x4E43)](https://github.com/NimaiCharan/github-readme-stats)
