@@ -1,6 +1,6 @@
 # Hi, I'm Nimai👋 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Nimai Charan - Software Developer, Photographer, Writer">
+<img src="https://raw.githubusercontent.com/0x4E43/NimaiCharan/master/profile.png" alt="banner that says Nimai Charan - Software Developer, Photographer, Writer">
 I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Machine Learning, Image Processing, Java, FLutter and GraphQL etc. 
 
 
